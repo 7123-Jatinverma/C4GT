@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+    <table>
+      <tr>
+        <td>Name</td>
+        <td>Jatin Verma</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/7123-Jatinverma</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/jatin-verma-95ab50210/</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>MITS Gwalior (M.P)</td>
+      </tr>
+    </table>
